@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Craftship</title>
+    <link href="https://zerone0x.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://zerone0x.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-05-22T00:00:00+00:00</updated>
+    <id>https://zerone0x.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>hi</title>
+        <published>2023-05-22T00:00:00+00:00</published>
+        <updated>2023-05-22T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://zerone0x.github.io/posts/hi/" type="text/html"/>
+        <id>https://zerone0x.github.io/posts/hi/</id>
+        <content type="html">&lt;p&gt;尝试下rust的zola frame搭建的blog。&lt;&#x2F;p&gt;
+&lt;p&gt;之前的blog已经有3个月没维护，并且域名过期。&lt;&#x2F;p&gt;
+&lt;p&gt;打算在这写点学过的东西，还有些工具使用的推荐。&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>
